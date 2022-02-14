@@ -1,0 +1,40 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+
+section:not(.content, .total){
+    width: 1080px;
+    padding: 0 180px;
+}
+
+h1,h2:not(.content__title){
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+h1, h2{
+    letter-spacing: -1px;
+}
+
+h2{
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 120%;
+    margin: 0;
+}
+
+p{
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 120%;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+
+section{
+    margin-bottom: 50px;
+}
+
+img:not(.sectiondom__img_border){
+    margin-bottom: 30px;
+}

@@ -1,0 +1,23 @@
+.sectionorder__subtitleright{
+    display: inline-block;
+    float: right;
+    width: 490px;
+}
+
+.sectionorder__subtitleleft{
+    display: inline-block;
+    float: left;
+    width: 480px;
+}
+
+.sectionorder__subtitle{
+    margin-top: 0;
+}
+
+.sectionorder__subtitle:last-child{
+    margin: 0;
+}
+
+.sectionorder__img-padding{
+    margin-bottom: 0;
+}

@@ -1,0 +1,41 @@
+.total{
+    width: 1140px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+}
+
+.total__bg{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    padding: 25px 30px 22px; 
+    margin: 0 auto;
+}
+
+.total__title{
+    margin-bottom: 20px;
+    font-size: 44px;
+    line-height: 120%;
+    font-weight: bold;
+}
+
+.total__list{
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 29px;
+}
+
+.total__item{
+    font-size: 20px;
+    line-height: 120%;
+    font-weight: normal;
+    box-sizing: border-box;
+}
+
+.total__item:not(:last-child){
+    margin-bottom: 9px;
+}
+
+.total__subtitle{
+    margin-bottom: 0;
+}

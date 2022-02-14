@@ -1,0 +1,15 @@
+.sectiondom__img_border{
+    display: block;
+}
+
+.sectiondom__subtitle_border{
+    border: solid 1px;
+    border-top: none;
+    border-color: #000000;
+    padding: 15px 30px;
+    margin-top: 0px;
+}
+
+.sectiondom__subtitle:last-child{
+    margin-bottom: 0;
+}

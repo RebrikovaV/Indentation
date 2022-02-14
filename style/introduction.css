@@ -1,0 +1,14 @@
+.introduction{
+    padding-top: 60px;
+}
+
+.introduction__title{
+    font-size: 58px;
+    font-weight: 900;
+    line-height: 72px;
+    font-style: normal;
+}
+
+.introduction__subtitle:last-child{
+    margin: 0;
+}
