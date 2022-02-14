@@ -4,7 +4,8 @@ body{
 
 section:not(.content, .total){
     width: 1080px;
-    padding: 0 180px;
+    margin-left: 180px;
+    margin-right: 180px;
 }
 
 h1,h2:not(.content__title){
